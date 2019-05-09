@@ -1,0 +1,4 @@
+paramiko
+junos-eznc
+pprint
+cryptography==2.4.2
